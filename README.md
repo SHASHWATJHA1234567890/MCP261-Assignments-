@@ -1,4 +1,4 @@
-# MCP261-Assignments-
+# MCP261-Assignments
 Basic ML Algorithms (MCP-261)
 
 
