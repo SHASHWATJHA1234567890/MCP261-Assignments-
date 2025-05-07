@@ -2,7 +2,7 @@
 Basic ML Algorithms (MCP-261)
 
 
-This repository contains, all the code implementation of all algorithms and optimization techniques the taught in the course MCP-261. These include:
+This repository contains, the code implementation of all algorithms and optimization techniques taught in the course MCP-261. These include:
 
 1) GD
 2) SGD
